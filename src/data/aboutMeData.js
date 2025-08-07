@@ -5,6 +5,6 @@ export const aboutMeData = [
 	},
 	{
 		id: 2,
-		bio: ' I am passionate about developing innovative solutions that enhance user experience and meet client needs.',
+		bio: ' Additionally, I am an expert in frontend website development using React and various frameworks, including Tailwind CSS. I specialize in creating responsive and visually appealing user interfaces that enhance user experience. My proficiency in these technologies allows me to build dynamic applications that are both functional and aesthetically pleasing. I am committed to staying updated with the latest trends in frontend development to deliver high-quality results.',
 	},
 ];
