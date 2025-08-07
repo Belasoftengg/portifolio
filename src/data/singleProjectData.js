@@ -71,9 +71,9 @@ export const singleProjectData = {
 					'HTML',
 					'CSS',
 					'JavaScript',
-					'Vue.js',
+					'React.js',
 					'TailwindCSS',
-					'AdobeXD',
+					
 				],
 			},
 		],
@@ -137,26 +137,18 @@ export const singleProjectData = {
 	RelatedProject: {
 		title: 'Related Projects',
 		Projects: [
+			
 			{
 				id: 1,
-				title: 'Mobile UI',
-				img: Image4,
-			},
-			{
-				id: 2,
 				title: 'Web Application',
 				img: Image5,
 			},
 			{
-				id: 3,
+				id: 2,
 				title: 'UI Design',
 				img: Image6,
 			},
-			{
-				id: 4,
-				title: 'Kabul Mobile App UI',
-				img: Image3,
-			},
+			
 		],
 	},
 };
