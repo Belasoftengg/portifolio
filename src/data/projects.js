@@ -1,5 +1,5 @@
 // Import images
-import WebImage2 from '../images/Tourist Hotel.jpeg';
+import WebImage2 from '../images/art.PNG';
 import UIImage1 from '../images/Tourist Hotel.jpeg';
 import UIImage2 from '../images/Haile Resort.jpeg';
 
