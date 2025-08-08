@@ -1,7 +1,7 @@
 // Import images
-import Image1 from '../images/';
-import Image2 from '../images/web-project-2.jpg';
-import Image3 from '../images/mobile-project-2.jpg';
+import Image1 from '../images/ashu.PNG';
+import Image2 from '../images/ashu2.PNG';
+import Image3 from '../images/ashu3.PNG';
 import Image5 from '../images/web-project-1.jpg';
 import Image6 from '../images/ui-project-2.jpg';
 // Import icons
