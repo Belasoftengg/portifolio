@@ -1,5 +1,5 @@
 // Import images
-import Image1 from '../images/ui-project-1.jpg';
+import Image1 from '../images/';
 import Image2 from '../images/web-project-2.jpg';
 import Image3 from '../images/mobile-project-2.jpg';
 import Image5 from '../images/web-project-1.jpg';
@@ -15,8 +15,8 @@ import {
 
 export const singleProjectData = {
 	ProjectHeader: {
-		title: 'Project Management UI',
-		publishDate: 'Jul 26, 2021',
+		title: 'Volunters Organization UI',
+		publishDate: 'Jul 26, 2025',
 		tags: 'UI / Frontend',
 	},
 	ProjectImages: [
