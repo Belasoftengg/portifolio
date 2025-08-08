@@ -15,9 +15,9 @@ import {
 
 export const singleProjectData = {
 	ProjectHeader: {
-		title: 'Volunters Organization Website',
-		publishDate: 'Jul 26, 2025',
-		tags: ' Full Stack',
+		title: 'Event Management Website for NPOs',
+		publishDate: 'May, 2017 E.C',
+		tags: 'Full Stack, MERN',
 	},
 	ProjectImages: [
 		{
@@ -42,37 +42,36 @@ export const singleProjectData = {
 			{
 				id: 1,
 				title: 'Name',
-				details: 'Company Ltd',
+				details: 'Arba Minch University',
 			},
 			{
 				id: 2,
 				title: 'Services',
-				details: 'UI Design & Frontend Development',
+				details: 'Event Management Solutions for Non-Profits',
 			},
 			{
 				id: 3,
 				title: 'Website',
-				details: 'https://company.com',
+				details: 'https://www.arbaMinch.edu.et',
 			},
 			{
 				id: 4,
 				title: 'Phone',
-				details: '555 8888 888',
+				details: '046 115 16 55',
 			},
 		],
 		ObjectivesHeading: 'Objective',
 		ObjectivesDetails:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.',
+			'To empower non-profit organizations with a comprehensive event management platform that enhances collaboration, maximizes impact, and strengthens community engagement.',
 		Technologies: [
 			{
 				title: 'Tools & Technologies',
 				techs: [
+					'MERN Stack (MongoDB, Express.js, React.js, Node.js)',
 					'HTML',
 					'CSS',
 					'JavaScript',
-					'React.js',
 					'TailwindCSS',
-					
 				],
 			},
 		],
@@ -81,62 +80,61 @@ export const singleProjectData = {
 			{
 				id: 1,
 				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+					'Non-profit organizations often struggle with inefficient planning and communication gaps, which hinder their ability to maximize impact. The platform addresses these challenges by providing a user-friendly interface for event management.',
 			},
 			{
 				id: 2,
 				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+					'Limited access to data-driven decision-making and fragmented communication can lead to confusion and inefficiency in event execution.',
 			},
 			{
 				id: 3,
 				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+					'The need for a centralized platform that streamlines event planning, improves coordination among stakeholders, and ensures real-time communication.',
 			},
 			{
 				id: 4,
 				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-			},
-		],
-		SocialSharingHeading: 'Share This',
-		SocialSharing: [
-			{
-				id: 1,
-				name: 'Twitter',
-				icon: <FiTwitter />,
-				url: 'https://twitter.com/realstoman',
-			},
-			{
-				id: 2,
-				name: 'Instagram',
-				icon: <FiInstagram />,
-				url: 'https://instagram.com/realstoman',
-			},
-			{
-				id: 3,
-				name: 'Facebook',
-				icon: <FiFacebook />,
-				url: 'https://facebook.com/',
-			},
-			{
-				id: 4,
-				name: 'LinkedIn',
-				icon: <FiLinkedin />,
-				url: 'https://linkedin.com/',
-			},
-			{
-				id: 5,
-				name: 'Youtube',
-				icon: <FiYoutube />,
-				url: 'https://www.youtube.com/c/StomanStudio',
+					'The project aims to modernize non-profit event planning, strengthen community engagement, and enhance organizational effectiveness.',
 			},
 		],
 	},
+	SocialSharingHeading: 'Share This',
+	SocialSharing: [
+		{
+			id: 1,
+			name: 'Twitter',
+			icon: <FiTwitter />,
+			url: 'https://twitter.com/realstoman',
+		},
+		{
+			id: 2,
+			name: 'Instagram',
+			icon: <FiInstagram />,
+			url: 'https://instagram.com/realstoman',
+		},
+		{
+			id: 3,
+			name: 'Facebook',
+			icon: <FiFacebook />,
+			url: 'https://facebook.com/',
+		},
+		{
+			id: 4,
+			name: 'LinkedIn',
+			icon: <FiLinkedin />,
+			url: 'https://linkedin.com/',
+		},
+		{
+			id: 5,
+			name: 'Youtube',
+			icon: <FiYoutube />,
+			url: 'https://www.youtube.com/c/StomanStudio',
+		},
+	],
 	RelatedProject: {
 		title: 'Related Projects',
 		Projects: [
-			
 			{
 				id: 1,
 				title: 'Web Application',
@@ -147,7 +145,7 @@ export const singleProjectData = {
 				title: 'UI Design',
 				img: Image6,
 			},
-			
 		],
 	},
 };
+export default singleProjectData;
