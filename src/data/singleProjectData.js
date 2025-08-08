@@ -111,7 +111,7 @@ export const singleProjectData = {
 			id: 2,
 			name: 'Instagram',
 			icon: <FiInstagram />,
-			url: 'https://instagram.com/realstoman',
+			url: 'https://instagram.com/bluefann_44',
 		},
 		{
 			id: 3,
