@@ -3,7 +3,6 @@ import {
 	FiInstagram,
 	FiLinkedin,
 	FiGlobe,
-	FiYoutube,
 } from 'react-icons/fi';
 import AppFooterCopyright from './AppFooterCopyright';
 
@@ -28,11 +27,7 @@ const socialLinks = [
 		icon: <FiLinkedin />,
 		url: 'https://www.linkedin.com/in/belay-ketema',
 	},
-	{
-		id: 5,
-		icon: <FiYoutube />,
-		url: 'https://www.youtube.com/c/bluefann44',
-	},
+	
 ];
 
 const AppFooter = () => {
