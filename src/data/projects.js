@@ -10,7 +10,7 @@ export const projectsData = [
 		category: 'Web Application',
 		img: WebImage2,
 		ProjectHeader: {
-			title: 'Volunters Organization UI - From Context',
+			title: 'Volunters Organization Website',
 			publishDate: 'Jul 26, 2025',
 			tags: 'UI / Frontend',
 		},

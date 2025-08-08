@@ -15,24 +15,24 @@ import {
 
 export const singleProjectData = {
 	ProjectHeader: {
-		title: 'Volunters Organization UI',
+		title: 'Volunters Organization Website',
 		publishDate: 'Jul 26, 2025',
-		tags: 'UI / Frontend',
+		tags: ' Full Stack',
 	},
 	ProjectImages: [
 		{
 			id: 1,
-			title: 'Kabul Project Management UI',
+			title: 'Login Page UI',
 			img: Image1,
 		},
 		{
 			id: 2,
-			title: 'Kabul Project Management UI',
+			title: 'Features of the System UI',
 			img: Image2,
 		},
 		{
 			id: 3,
-			title: 'Kabul Project Management UI',
+			title: 'NPOs Event Management UI',
 			img: Image3,
 		},
 	],
