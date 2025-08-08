@@ -12,7 +12,7 @@ export const projectsData = [
 		ProjectHeader: {
 			title: 'Volunters Organization Website',
 			publishDate: 'Jul 26, 2025',
-			tags: 'UI / Frontend',
+			tags: 'FULL STACK',
 		},
 	},
 	
