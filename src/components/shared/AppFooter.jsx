@@ -10,7 +10,7 @@ const socialLinks = [
 	{
 		id: 1,
 		icon: <FiGlobe />,
-		url: 'https://belayresume.netlify.app/',
+		url: 'https://belay-ketema-portifolio.onrender.com',
 	},
 	{
 		id: 2,
