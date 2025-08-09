@@ -67,8 +67,8 @@ export const singleProjectData = [
         RelatedProject: {
             title: 'Related Projects',
             Projects: [
-                { id: 1, title: 'Web Application', img: Image7},
-                { id: 2, title: 'UI Design', img: Image8 },
+                { id: 1, title: 'Web Application', img: Image5 },
+                { id: 2, title: 'UI Design', img: Image6 },
             ],
         },
     },
@@ -171,8 +171,8 @@ export const singleProjectData = [
         RelatedProject: {
             title: 'Related Projects',
             Projects: [
-                { id: 1, title: 'Web Application', img: Image3 },
-                { id: 2, title: 'UI Design', img: Image1 },
+                { id: 1, title: 'Web Application', img: Image7 },
+                { id: 2, title: 'UI Design', img: Image8 },
             ],
         },
     },
