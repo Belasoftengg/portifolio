@@ -134,8 +134,8 @@ export const singleProjectData = [
             tags: 'UI/UX, Design',
         },
         ProjectImages: [
-            { id: 1, title: 'Resort Home Page', img: Image2 },
-            { id: 2, title: 'Resort Gallery', img: Image3 },
+            { id: 1, title: 'Resort Home Page', img: Image7 },
+            { id: 2, title: 'Resort Gallery', img: Image8 },
         ],
         ProjectInfo: {
             ClientHeading: 'About Client',
@@ -151,9 +151,11 @@ export const singleProjectData = [
                 {
                     title: 'Tools & Technologies',
                     techs: [
-                        'Figma',
-                        'Adobe XD',
-                        'Photoshop',
+                        'React.js',
+                        'HTML',
+                        'CSS',
+                        'JavaScript',
+                        'Bootstrap',
                     ],
                 },
             ],
