@@ -28,23 +28,24 @@ const SingleProject = () => {
             </div>
 
             {/* Images */}
-            <div className="flex flex-wrap gap-4 sm:gap-6 justify-center mb-10">
-                {project.ProjectImages.map((img) => (
-                    <div
-                        key={img.id}
-                        className="rounded-xl overflow-hidden shadow-lg hover:scale-105 transition-transform duration-300 bg-gray-50 dark:bg-gray-800"
-                    >
-                        <img
-                            src={img.img}
-                            alt={img.title}
-                            className="w-40 h-28 sm:w-56 sm:h-40 object-cover"
-                        />
-                        <div className="bg-gray-100 dark:bg-gray-800 text-center py-2 text-xs text-gray-700 dark:text-gray-300">
-                            {img.title}
-                        </div>
-                    </div>
-                ))}
+      {/* Images */}
+<div className="flex flex-wrap gap-4 sm:gap-6 justify-center mb-10">
+    {project.ProjectImages.map((img) => (
+        <div
+            key={img.id}
+            className="rounded-xl overflow-hidden shadow-lg hover:scale-105 transition-transform duration-300 bg-gray-50 dark:bg-gray-800"
+        >
+            <img
+                src={img.img}
+                alt={img.title}
+                className="w-80 h-56 sm:w-[32rem] sm:h-[22rem] object-cover"
+            />
+            <div className="bg-gray-100 dark:bg-gray-800 text-center py-2 text-xs text-gray-700 dark:text-gray-300">
+                {img.title}
             </div>
+        </div>
+    ))}
+</div>
 
             {/* Info Grid */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 sm:gap-10 mb-10">

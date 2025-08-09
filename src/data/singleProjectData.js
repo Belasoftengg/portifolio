@@ -3,8 +3,9 @@ import Image2 from '../images/ashu2.PNG';
 import Image3 from '../images/ashu3.PNG';
 import Image5 from '../images/Tourist2.jpg';
 import Image6 from '../images/Tourist3.jpg';
-import Image7 from '../images/Haile2.jpg';
+import Image7 from '../images/Haile4.jpg';
 import Image8 from '../images/Haile3.jpg';
+import Image9 from '../images/Haile11.jpg';
 import {
     FiFacebook,
     FiInstagram,
@@ -77,7 +78,7 @@ export const singleProjectData = [
         id: 2,
         ProjectHeader: {
             title: 'Tourist Hotel Website',
-            publishDate: 'Jan, 2018 E.C',
+            publishDate: 'Jan, 2015 E.C',
             tags: 'Frontend, React',
         },
         ProjectImages: [
@@ -130,12 +131,13 @@ export const singleProjectData = [
         id: 3,
         ProjectHeader: {
             title: 'Haile Resort Arbaminch',
-            publishDate: 'Mar, 2019 E.C',
+            publishDate: 'Mar, 2014 E.C',
             tags: 'UI/UX, Design',
         },
         ProjectImages: [
-            { id: 1, title: 'Resort Home Page', img: Image7 },
-            { id: 2, title: 'Resort Gallery', img: Image8 },
+            { id: 1, title: 'Resort Home Page', img: Image6 },
+            { id: 2, title: 'Resort Home Page', img: Image8 },
+            { id: 3, title: 'Resort Gallery', img: Image5 },
         ],
         ProjectInfo: {
             ClientHeading: 'About Client',
